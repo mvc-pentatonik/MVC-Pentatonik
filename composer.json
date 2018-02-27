@@ -1,29 +1,14 @@
 {
     "name": "mvc-pentatonik/mvc-pentatonik",
-    "type": "vcs",
-    "description": "framwork php dengan struktur mvc",
-    "keywords": ["mvc","model view controller"],
-    "homepage": "https://github.com/mvc-pentatonik/mvc-pentatonik",
+    "description": "Framework PHP dengan Struktur MVC",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Datros Sumendong",
-            "email": "dsumendong@gmail.com",
-            "homepage": "http://mvc-pentatonik.github.io",
-            "role": "Developer"
+            "email": "dsumendong@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.3.0",
-        "mvc-pentatonik/mvc-pentatonik": "1.0"
-    },
-
-    "require-dev": {
-        "php": ">=5.3.0",
-        "mvc-pentatonik/mvc-pentatonik": "1.0-beta"
-    },
-    "repositories": [
-        {"type": "composer", "url": "https://repo.packagist.com/mvc-pentatonik/"},
-        {"packagist.org": false}
-    ]
+    "minimum-stability": "stable",
+    "require": {}
 }
