@@ -1,6 +1,6 @@
 {
     "name": "mvc-pentatonik/mvc-pentatonik",
-    "type": "framework",
+    "type": "vcs",
     "description": "framwork php dengan struktur mvc",
     "keywords": ["mvc","model view controller"],
     "homepage": "https://github.com/mvc-pentatonik/mvc-pentatonik",
