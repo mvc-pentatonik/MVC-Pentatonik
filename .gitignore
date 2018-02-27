@@ -1,3 +1,3 @@
 /pentatonik/mails
-#/vendor
-#composer.lock
+/vendor
+composer.lock
