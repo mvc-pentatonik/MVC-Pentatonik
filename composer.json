@@ -1,6 +1,10 @@
 {
     "name": "mvc-pentatonik/mvc-pentatonik",
     "description": "mvc-pentatonik framework for web php",
+    "repositories": [
+        {"type": "composer", "url": "https://repo.packagist.com/mvc-pentatonik/"},
+        {"packagist.org": false}
+    ]
     "require-dev": {
         "php": "^5.3.3 || ^7.0",
         "package": "1.0-beta"
