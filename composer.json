@@ -25,5 +25,5 @@
     "repositories": [
         {"type": "composer", "url": "https://repo.packagist.com/mvc-pentatonik/"},
         {"packagist.org": false}
-    ],
+    ]
 }
