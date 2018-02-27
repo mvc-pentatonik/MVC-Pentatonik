@@ -1,7 +1,7 @@
 {
-    "name": "datrosumendong/mvc-pentatonik",
+    "name": "mvc-pentatonik/mvc-pentatonik",
     "description": "mvc-pentatonik framework for web php",
-    "require": {
+    "require-dev": {
         "php": "^5.3.3 || ^7.0",
         "package": "1.0-beta"
     },
