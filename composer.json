@@ -15,11 +15,17 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "mvc-pentatonik": "1.0-beta"
+        "mvc-pentatonik": "dev-master"
     },
     "autoload": {
         "psr-0": {
             "mvc-pentatonik": "mvc-pentatonik"
         }
-    }
+    },
+    "repositories": [
+      {
+        "type": "vcs",
+        "url":  "git@github.com:mvc-pentatonik/mvc-pentatonik.git"
+      }
+    ]
 }
