@@ -1,7 +1,13 @@
 {
     "name": "mvc-pentatonik/mvc-pentatonik",
-    "description": "Framework PHP dengan Struktur MVC",
-    "type": "library",
+    "description": "Framework PHP dengan struktur MVC",
+    "type": "project",
+    "require": {
+        "mvc-pentatonik/mvc-pentatonik": "^1.0"
+    },
+    "require-dev": {
+        "mvc-pentatonik/mvc-pentatonik": "^1.0"
+    },
     "license": "MIT",
     "authors": [
         {
@@ -9,8 +15,5 @@
             "email": "dsumendong@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-      "mvc-pentatonik/mvc-pentatonik" : "*"
-    }
+    "minimum-stability": "stable"
 }
