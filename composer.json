@@ -23,9 +23,7 @@
         }
     },
     "repositories": [
-      {
-        "type": "vcs",
-        "url":  "git@github.com:mvc-pentatonik/mvc-pentatonik.git"
-      }
+        {"type": "composer", "url": "https://repo.packagist.com/mvc-pentatonik/"},
+        {"packagist.org": false}
     ]
 }
