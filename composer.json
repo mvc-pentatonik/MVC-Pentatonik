@@ -1,5 +1,5 @@
 {
-    "name": "dsumendong/mvc-pentatonik",
+    "name": "datrosumendong/mvc-pentatonik",
     "description": "mvc-pentatonik framework for web php",
     "require": {
         "php": "^5.3.3 || ^7.0",
