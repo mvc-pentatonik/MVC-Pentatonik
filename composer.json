@@ -25,5 +25,11 @@
     "repositories": [
         {"type": "composer", "url": "https://repo.packagist.com/mvc-pentatonik/"},
         {"packagist.org": false}
-    ]
+    ],
+    "http-basic": {
+        "repo.packagist.com": {
+            "username": "datrosumendong",
+            "password": "0e2b95c45ce72dec9567cbaf3adb5fbe30ff1f97dda4d7540b43df9492d3"
+        }
+    }
 }
