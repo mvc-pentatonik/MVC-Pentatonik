@@ -17,6 +17,11 @@
         "php": ">=5.3.0",
         "mvc-pentatonik/mvc-pentatonik": "1.0"
     },
+
+    "require-dev": {
+        "php": ">=5.3.0",
+        "mvc-pentatonik/mvc-pentatonik": "1.0-beta"
+    },
     "repositories": [
         {"type": "composer", "url": "https://repo.packagist.com/mvc-pentatonik/"},
         {"packagist.org": false}
