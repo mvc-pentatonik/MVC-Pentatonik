@@ -1,7 +1,7 @@
 {
     "name": "mvc-pentatonik/mvc-pentatonik",
     "description": "Framework PHP dengan struktur MVC",
-    "type": "vcs",
+    "type": "project",
     "require": {
         "mvc-pentatonik/mvc-pentatonik": "^1.0"
     },
