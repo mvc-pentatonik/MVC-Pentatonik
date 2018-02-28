@@ -28,5 +28,5 @@
             "email": "dsumendong@gmail.com"
         }
     ],
-    "minimum-stability": "root-only"
+    "minimum-stability": "dev"
 }
