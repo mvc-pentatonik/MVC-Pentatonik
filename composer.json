@@ -1,7 +1,12 @@
 {
     "name": "mvc-pentatonik/mvc-pentatonik",
     "description": "Framework PHP dengan struktur MVC",
-    "type": "projcet",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mvc-pentatonik/mvc-pentatonik.git"
+        }
+    ],
     "require": {
         "mvc-pentatonik/mvc-pentatonik": "^1.0"
     },
