@@ -2,10 +2,18 @@
     "name": "mvc-pentatonik/mvc-pentatonik",
     "description": "Framework PHP dengan struktur MVC",
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mvc-pentatonik/mvc-pentatonik.git"
+    {
+        "type":"package",
+        "package": {
+          "name": "mvc-pentatonik/mvc-pentatonik",
+          "version":"master",
+          "source": {
+              "url": "https://github.com/mvc-pentatonik/mvc-pentatonik.git",
+              "type": "git",
+              "reference":"master"
+            }
         }
+    }
     ],
     "require": {
         "mvc-pentatonik/mvc-pentatonik": "^1.0"
