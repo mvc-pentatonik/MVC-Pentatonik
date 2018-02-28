@@ -16,10 +16,10 @@
     }
     ],
     "require": {
-        "mvc-pentatonik/mvc-pentatonik": "^1.0"
+        "mvc-pentatonik/mvc-pentatonik": "*"
     },
     "require-dev": {
-        "mvc-pentatonik/mvc-pentatonik": "^1.0"
+        "mvc-pentatonik/mvc-pentatonik": "*"
     },
     "license": "MIT",
     "authors": [
