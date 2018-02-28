@@ -3,7 +3,7 @@
     "description": "Framework PHP dengan struktur MVC",
     "repositories": [
     {
-        "type":"package",
+        "type":"project",
         "package": {
           "name": "mvc-pentatonik/mvc-pentatonik",
           "version":"master",
@@ -28,5 +28,5 @@
             "email": "dsumendong@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "root-only"
 }
