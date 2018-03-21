@@ -3,7 +3,7 @@
 /**
  * @URL BASE disesuaikan
  */
-define('URL','http://localhost/MVC-Pentatonik/');
+define('URL','http://localhost/MVC-PentatonikOke/');
 
 /**
  * @DATAWEBSITE WEBSITE
